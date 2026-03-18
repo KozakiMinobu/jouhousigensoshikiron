@@ -13,7 +13,7 @@
 <body>
 
 <header>
-<h1 id="logo"><a href="index.html"><img src="images/ロゴとかマークとかいれる(クリックできるよ).png" alt="へなちょこロゴ"></a></h1><!-- ロゴ -->
+<h1 id="logo"><a href="index.html"><img src="images/ロゴとかマークとかいれる(クリックできるよ).png" alt="情報資源組織論"></a></h1><!-- ロゴ -->
 <nav id="menubar"><!-- メニューバー -->
 <ul>
 <li><a href="#text">レポート</a></li>
